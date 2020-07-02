@@ -1,0 +1,175 @@
+[main] INFO  WorckVector  - 5.0
+[main] INFO  WorckVector  - 5.0
+[main] INFO  WorckVector  - 0.0
+[main] INFO  WorckVector  - 4.0
+[main] INFO  WorckVector  - x1 = 4.0
+[main] INFO  WorckVector  - x1 = 4.0
+[main] INFO  WorckVector  - x2 = 12.0
+[main] INFO  WorckVector  - y1 = 11.0
+[main] INFO  WorckVector  - y2 = 15.0
+[main] INFO  WorckVector  - x1 = 2.0
+[main] INFO  WorckVector  - x2 = 12.0
+[main] INFO  WorckVector  - y1 = 3.0
+[main] INFO  WorckVector  - y2 = 15.0
+[main] INFO  WorckVector  - x1 = 2.0
+[main] INFO  WorckVector  - x2 = 12.0
+[main] INFO  WorckVector  - y1 = 3.0
+[main] INFO  WorckVector  - y2 = 15.0
+[main] INFO  WorckVector  - x1 = 2.0
+[main] INFO  WorckVector  - x2 = 12.0
+[main] INFO  WorckVector  - y1 = 3.0
+[main] INFO  WorckVector  - y2 = 15.0
+[main] INFO  WorckVector  - x1 = 2.0
+[main] INFO  WorckVector  - x2 = 12.0
+[main] INFO  WorckVector  - y1 = 3.0
+[main] INFO  WorckVector  - y2 = 15.0
+[main] INFO  WorckVector  - x1 = 2.0
+[main] INFO  WorckVector  - x2 = 0.0
+[main] INFO  WorckVector  - y1 = 3.0
+[main] INFO  WorckVector  - y2 = -3.0
+[main] INFO  WorckVector  - x1 = 6.0
+[main] INFO  WorckVector  - x2 = 6.0
+[main] INFO  WorckVector  - y1 = 6.0
+[main] INFO  WorckVector  - y2 = 9.0
+[main] INFO  WorckVector  - x1 = 6.0
+[main] INFO  WorckVector  - y1 = 6.0
+[main] INFO  WorckVector  - x2 = 6.0
+[main] INFO  WorckVector  - y2 = 9.0
+[main] INFO  WorckVector  - (x1, y1) = 6.0 6.0
+[main] INFO  WorckVector  - (x2, y2) = 6.0 9.0
+[main] INFO  WorckVector  - (x1, y1) = (6.0, 6.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 9.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (2.0, 3.0)
+[main] INFO  WorckVector  - (x2, y2) = (12.0, 15.0)
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (12.0, 15.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 9.0)
+[main] INFO  WorckVector  - length vector 15.0
+[main] INFO  WorckVector  - length vector 24.123105625617661
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (2.0, 3.0)
+[main] INFO  WorckVector  - (x2, y2) = (12.0, 15.0)
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (12.0, 15.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 9.0)
+[main] INFO  WorckVector  - length vector /15.0
+[main] INFO  WorckVector  - length vector 24.123105625617661
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (2.0, 3.0)
+[main] INFO  WorckVector  - (x2, y2) = (12.0, 15.0)
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (12.0, 15.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 9.0)
+[main] INFO  WorckVector  - length vector 1 = 5.0
+[main] INFO  WorckVector  - length vector 24.123105625617661
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (2.0, 3.0)
+[main] INFO  WorckVector  - (x2, y2) = (12.0, 15.0)
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (12.0, 15.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 9.0)
+[main] INFO  WorckVector  - length vector 1 = 5.0
+[main] INFO  WorckVector  - length vector 2 =4.123105625617661
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (2.0, 3.0)
+[main] INFO  WorckVector  - (x2, y2) = (12.0, 15.0)
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (12.0, 15.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 9.0)
+[main] INFO  WorckVector  - length vector 1 = 5.0
+[main] INFO  WorckVector  - length vector 2 = 4.123105625617661
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (2.0, 3.0)
+[main] INFO  WorckVector  - (x2, y2) = (12.0, 15.0)
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (12.0, 15.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 9.0)
+[main] INFO  WorckVector  - length vector 1 = 5.0
+[main] INFO  WorckVector  - length vector 2 = 4.123105625617661
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (2.0, 3.0)
+[main] INFO  WorckVector  - (x2, y2) = (12.0, 15.0)
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (12.0, 15.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 9.0)
+[main] INFO  WorckVector  - length vector 1 = 5.0
+[main] INFO  WorckVector  - length vector 2 = 4.123105625617661
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (2.0, 3.0)
+[main] INFO  WorckVector  - (x2, y2) = (12.0, 15.0)
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (12.0, 15.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 9.0)
+[main] INFO  WorckVector  - length vector 1 = 5.0
+[main] INFO  WorckVector  - length vector 2 = 4.123105625617661
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (2.0, 3.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 4.0)
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (6.0, 4.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 9.0)
+[main] INFO  WorckVector  - length vector 1 = 4.242640687119285
+[main] INFO  WorckVector  - length vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (1.0, 2.0)
+[main] INFO  WorckVector  - (x2, y2) = (3.0, 7.0)
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (3.0, 7.0)
+[main] INFO  WorckVector  - (x2, y2) = (8.0, 6.0)
+[main] INFO  WorckVector  - length vector 1 = 4.242640687119285
+[main] INFO  WorckVector  - length vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (3.0, 7.0)
+[main] INFO  WorckVector  - (x2, y2) = (3.0, 7.0)
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (3.0, 7.0)
+[main] INFO  WorckVector  - (x2, y2) = (8.0, 6.0)
+[main] INFO  WorckVector  - length vector 1 = 4.242640687119285
+[main] INFO  WorckVector  - length vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 10.0)
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (6.0, 10.0)
+[main] INFO  WorckVector  - (x2, y2) = (8.0, 6.0)
+[main] INFO  WorckVector  - length vector 1 = 4.242640687119285
+[main] INFO  WorckVector  - length vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (3.0, 7.0)
+[main] INFO  WorckVector  - (x2, y2) = (3.0, 7.0)
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (3.0, 7.0)
+[main] INFO  WorckVector  - (x2, y2) = (8.0, 6.0)
+[main] INFO  WorckVector  - length vector 1 = 4.242640687119285
+[main] INFO  WorckVector  - length vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (3.0, 7.0)
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (8.0, 6.0)
+[main] INFO  WorckVector  - length vector 1 = 4.242640687119285
+[main] INFO  WorckVector  - length vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 10.0)
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (3.0, 7.0)
+[main] INFO  WorckVector  - length vector 1 = 4.242640687119285
+[main] INFO  WorckVector  - length vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (3.0, 7.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 10.0)
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (3.0, 7.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 10.0)
+[main] INFO  WorckVector  - modul vector 1 = 4.242640687119285
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
