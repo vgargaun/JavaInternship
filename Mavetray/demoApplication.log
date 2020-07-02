@@ -1,0 +1,27 @@
+[main] DEBUG Cars  - 2010
+[main] INFO  Cars  - 2010
+[main] INFO  Cars  - 2010
+[main] INFO  Cars  - 2010
+[main] INFO  Cars  - 2010
+[main] INFO  Cars  - 2010
+[main] INFO  Cars  - BMW
+[main] INFO  Cars  - 2010
+[main] INFO  Cars  - BMW
+[main] INFO  MyClass  - No red color
+[main] INFO  Cars  - 2010
+[main] INFO  Cars  - BMW
+[main] INFO  MyClass  - NoColorException: Nema asa culoare
+[main] INFO  Cars  - 2010
+[main] INFO  Cars  - BMW
+[main] INFO  MyClass  - NoColorException: Nema asa culoare
+[main] INFO  Cars  - 2010
+[main] INFO  Cars  - BMW
+[main] INFO  MyClass  - NoColorException: Nema asa culoare
+[main] INFO  Cars  - 2010
+[main] INFO  Cars  - BMW
+[main] INFO  MyClass  - NoColorException: Nema asa culoare
+[main] INFO  Cars  - 2010
+[main] INFO  Cars  - BMW
+[main] INFO  MyClass  - NoColorException: Nu este asa culoare
+[main] INFO  Cars  - 2010
+[main] INFO  Cars  - BMW
