@@ -21,6 +21,13 @@
             <artifactId>log4j</artifactId>
             <version>1.2.12</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/io.jsondb/jsondb-core -->
+        <dependency>
+            <groupId>io.jsondb</groupId>
+            <artifactId>jsondb-core</artifactId>
+            <version>1.0.64</version>
+        </dependency>
     </dependencies>
 
 

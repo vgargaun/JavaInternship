@@ -173,3 +173,191 @@
 [main] INFO  WorckVector  - (x2, y2) = (6.0, 10.0)
 [main] INFO  WorckVector  - modul vector 1 = 4.242640687119285
 [main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (3.0, 7.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 10.0)
+[main] INFO  WorckVector  - modul vector 1 = 4.242640687119285
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (3.0, 7.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 10.0)
+[main] INFO  WorckVector  - modul vector 1 = 4.242640687119285
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - degrees = 0.7602445970756301
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (3.0, 7.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 10.0)
+[main] INFO  WorckVector  - modul vector 1 = 4.242640687119285
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - degrees = 0.7602445970756301
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (3.0, 7.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 10.0)
+[main] INFO  WorckVector  - modul vector 1 = 4.242640687119285
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - degrees = 43.55880681005741
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (3.0, 7.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 10.0)
+[main] INFO  WorckVector  - modul vector 1 = 4.242640687119285
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - degrees = 43.55880681005741
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (3.0, 7.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 10.0)
+[main] INFO  WorckVector  - modul vector 1 = 4.242640687119285
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - degrees = 50.28177697059672
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (3.0, 7.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 10.0)
+[main] INFO  WorckVector  - modul vector 1 = 4.242640687119285
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - degrees = 60.00000000000001
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (3.0, 7.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (4.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (6.0, 10.0)
+[main] INFO  WorckVector  - modul vector 1 = 4.242640687119285
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - degrees = 45.0
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (-4.0, -5.0)
+[main] INFO  WorckVector  - (x2, y2) = (2.0, 5.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (-4.0, -5.0)
+[main] INFO  WorckVector  - (x2, y2) = (-2.0, 0.0)
+[main] INFO  WorckVector  - modul vector 1 = 6.4031242374328485
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - degrees = 231.34019174590992
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (3.0, 2.0)
+[main] INFO  WorckVector  - (x2, y2) = (9.0, 13.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (3.0, 2.0)
+[main] INFO  WorckVector  - (x2, y2) = (5.0, 7.0)
+[main] INFO  WorckVector  - modul vector 1 = 7.211102550927978
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - degrees = 236.30993247402023
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (-7.07, -7.07)
+[main] INFO  WorckVector  - (x2, y2) = (2.0, 5.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (-7.07, -7.07)
+[main] INFO  WorckVector  - (x2, y2) = (-5.07, -2.0700000000000003)
+[main] INFO  WorckVector  - modul vector 1 = 9.998489885977783
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - degrees = 225.0
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (5.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (2.0, 5.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (5.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (7.0, 10.0)
+[main] INFO  WorckVector  - modul vector 1 = 7.0710678118654755
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - degrees = 45.00000000000001
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (-5.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (2.0, 5.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (-5.0, 5.0)
+[main] INFO  WorckVector  - (x2, y2) = (-3.0, 10.0)
+[main] INFO  WorckVector  - modul vector 1 = 7.0710678118654755
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - degrees = 135.0
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (-5.0, -5.0)
+[main] INFO  WorckVector  - (x2, y2) = (2.0, 5.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (-5.0, -5.0)
+[main] INFO  WorckVector  - (x2, y2) = (-3.0, 0.0)
+[main] INFO  WorckVector  - modul vector 1 = 7.0710678118654755
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - degrees = 225.0
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (5.0, -5.0)
+[main] INFO  WorckVector  - (x2, y2) = (2.0, 5.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (5.0, -5.0)
+[main] INFO  WorckVector  - (x2, y2) = (7.0, 0.0)
+[main] INFO  WorckVector  - modul vector 1 = 7.0710678118654755
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - degrees = 315.0
+[main] INFO  WorckVector  - Minus Vector
+[main] INFO  WorckVector  - (x1, y1) = (5.0, -5.0)
+[main] INFO  WorckVector  - (x2, y2) = (3.0, 6.0)
+[main] INFO  WorckVector  - Sum Vector
+[main] INFO  WorckVector  - (x1, y1) = (5.0, -5.0)
+[main] INFO  WorckVector  - (x2, y2) = (7.0, 0.0)
+[main] INFO  WorckVector  - modul vector 1 = 7.211102550927978
+[main] INFO  WorckVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorckVector  - degrees = 303.69006752597977
+[main] INFO  WorkVector  - Minus Vector
+[main] INFO  WorkVector  - (x1, y1) = (5.0, -5.0)
+[main] INFO  WorkVector  - (x2, y2) = (3.0, 6.0)
+[main] INFO  WorkVector  - Sum Vector
+[main] INFO  WorkVector  - (x1, y1) = (5.0, -5.0)
+[main] INFO  WorkVector  - (x2, y2) = (7.0, 0.0)
+[main] INFO  WorkVector  - modul vector 1 = 7.211102550927978
+[main] INFO  WorkVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorkVector  - degrees = 303.69006752597977
+[main] INFO  WorkVector  - Minus Vector
+[main] INFO  WorkVector  - (x1, y1) = (5.0, -5.0)
+[main] INFO  WorkVector  - (x2, y2) = (2.0, 5.0)
+[main] INFO  WorkVector  - Sum Vector
+[main] INFO  WorkVector  - (x1, y1) = (5.0, -5.0)
+[main] INFO  WorkVector  - (x2, y2) = (7.0, 0.0)
+[main] INFO  WorkVector  - modul vector 1 = 7.0710678118654755
+[main] INFO  WorkVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorkVector  - degrees = 315.0
+[main] INFO  WorkVector  - Minus Vector
+[main] INFO  WorkVector  - (x1, y1) = (5.0, -5.0)
+[main] INFO  WorkVector  - (x2, y2) = (1.0, 6.0)
+[main] INFO  WorkVector  - Sum Vector
+[main] INFO  WorkVector  - (x1, y1) = (5.0, -5.0)
+[main] INFO  WorkVector  - (x2, y2) = (7.0, 0.0)
+[main] INFO  WorkVector  - modul vector 1 = 8.48528137423857
+[main] INFO  WorkVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorkVector  - degrees = 315.0
+[main] INFO  WorkVector  - Minus Vector
+[main] INFO  WorkVector  - (x1, y1) = (1.0, 1.0)
+[main] INFO  WorkVector  - (x2, y2) = (4.0, 13.0)
+[main] INFO  WorkVector  - Sum Vector
+[main] INFO  WorkVector  - (x1, y1) = (1.0, 1.0)
+[main] INFO  WorkVector  - (x2, y2) = (3.0, 6.0)
+[main] INFO  WorkVector  - modul vector 1 = 7.0710678118654755
+[main] INFO  WorkVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorkVector  - degrees = 261.86989764584405
+[main] INFO  WorkVector  - Minus Vector
+[main] INFO  WorkVector  - (x1, y1) = (1.0, 1.0)
+[main] INFO  WorkVector  - (x2, y2) = (4.0, 13.0)
+[main] INFO  WorkVector  - Sum Vector
+[main] INFO  WorkVector  - (x1, y1) = (1.0, 1.0)
+[main] INFO  WorkVector  - (x2, y2) = (3.0, 6.0)
+[main] INFO  WorkVector  - modul vector 1 = 7.0710678118654755
+[main] INFO  WorkVector  - modul vector 2 = 5.385164807134504
+[main] INFO  WorkVector  - degrees = 261.86989764584405
